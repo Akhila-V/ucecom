@@ -1,0 +1,72 @@
+<nav class="page-controls navbar navbar-default nav_bar"></nav>
+<span us-spinner spinner-key="spinner-1" spinner-on="showLoginSpinner"
+	spinner-theme="bigBlue"></span>
+
+<div class="quiz-container">
+	<hr class="hr-left">
+	<hr class="hr-right">
+
+	<div class="clockdiv">
+		<div>
+			<span class="second"> </span> <img class="timer-icon"
+				src="/app/images/timer.png"> 
+		</div>
+	</div>
+
+	<div class="lifelinescontainer">
+		<div class="lifelines">
+			<div class="fiftyfifty">
+				<img class="fifty-fifty-icon" src="/app/images/Classic5050.png"
+					(click)="activateFiftyFifty()"> 
+					<!-- <img
+					src="/app/images/cross-out-hi.png" class="fifty-fifty-deactivated"
+					ng-show="isFiftyFiftyDeactivated"> -->
+			</div>
+			<div class="flipQuestion">
+				<img class="flip-question-icon" src="/app/images/flip.jpg"
+					(click)="flipQuestion()">
+					 <!-- <img
+					src="/app/images/cross-out-hi.png" class="flip-question-deactivated"
+					ng-show="isFlipQuestionDeactivated">  -->
+			</div>
+
+			<div class="audiencePoll">
+				<img class="audience-poll-icon" src="/app/images/audience_poll.png"
+					(click)="flipQuestion()">
+					 <!-- <img
+					src="/app/images/cross-out-hi.png" class="audience-poll-deactivated"
+					ng-show="isFlipQuestionDeactivated">  -->
+			</div>
+
+		</div>
+
+	</div>
+	<div class="container-fluid">
+
+		<img class="quiz-logo" src="/app/images/kbc-logo.jpg">
+		<!-- <div class="amount-container" ng-repeat="prizeMoney in prizeMoneyInRounds">
+			<span> {{prizeMoney}} </span> <br>
+		</div> -->
+		<table class="prize-money-table">
+			<tr class="prize-money-row" *ngFor="let x of prizeMoneys">
+				<td
+					ng-class="(count == x.round) ? 'current-round-data' : 'data-row'">{{x.prize}}</td>
+					<!-- <td
+					ng-class="getBackground(x.round)">{{x.prize}}</td> -->
+			</tr>
+		</table>
+		<div class="row question-container">
+			<label class="question-label"> {{question}} </label>
+		</div>
+		<div class="row options-container">
+			<!-- <div class="row" *ngFor="let key of keys">
+				<button class="btn btn-primary" id=1  (click) ="checkAnswer($event)"
+						ng-disabled="!isCorrect || isQuit || isTimeOut" ng-hide="isHide">
+						<span class="option-number">  </span>
+						<span> {{key}}:{{options[key]}} </span>
+					</button>
+			</div> -->
+		</div>
+	</div>
+
+</div>

@@ -1,0 +1,305 @@
+{
+	"QuestionsList": [
+		{
+			"Question": "Which is the World Largest desert?",
+			"Round": 1,
+			"Answer": 3,
+			"Options": [
+				{
+					"OptionA": "Thar",
+					"OptionB": "Kalahari",
+					"OptionC": "Sahara",
+					"OptionD": "Sonoran"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 1000
+		},
+		{
+			"Question": "Where is Mount Everest located?",
+			"Round": 1,
+			"Answer": 2,
+			"Options": [
+				{
+					"OptionA": "India",
+					"OptionB": "Nepal",
+					"OptionC": "Tibet",
+					"OptionD": "China"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 1000
+		},
+		{
+			"Question": "Where is The Gate way of India?",
+			"Round": 1,
+			"Answer": 2,
+			"Options": [
+				{
+					"OptionA": "Chennai",
+					"OptionB": "Mumbai",
+					"OptionC": "Kolkata",
+					"OptionD": "New Delhi"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 1000
+		},
+		{
+			"Question": "Pink city in India is?",
+			"Round": 1,
+			"Answer": 4,
+			"Options": [
+				{
+					"OptionA": "Mysore",
+					"OptionB": "Karnataka",
+					"OptionC": "Hyderabad",
+					"OptionD": "Jaipur"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 1000
+		},
+		{
+			"Question": "Which state in India has desert?",
+			"Round": 1,
+			"Answer": 1,
+			"Options": [
+				{
+					"OptionA": "Rajasthan",
+					"OptionB": "Punjab",
+					"OptionC": "Uttar Pradesh",
+					"OptionD": "Madhya Pradesh"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 1000
+		},
+		{
+			"Question": "The river that flows through Delhi is?",
+			"Round": 1,
+			"Answer": 3,
+			"Options": [
+				{
+					"OptionA": "Ganges",
+					"OptionB": "Indus",
+					"OptionC": "Yamuna",
+					"OptionD": "Narmada"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 1000
+		},
+		{
+			"Question": "Which of the following is used in pencils?",
+			"Round": 1,
+			"Answer": 1,
+			"Options": [
+				{
+					"OptionA": "Graphite",
+					"OptionB": "Silicon",
+					"OptionC": "Charcoal",
+					"OptionD": "Phosphorous"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 1000
+		},
+		{
+			"Question": "'OS' is a computer abbreviation which usually means?",
+			"Round": 1,
+			"Answer": 3,
+			"Options": [
+				{
+					"OptionA": "Order of Significance",
+					"OptionB": "Open Software",
+					"OptionC": "Operating System",
+					"OptionD": "Optical Sensor"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 1000
+		},
+		{
+			"Question": "'.MOV' extension refers usually to what kind of file?",
+			"Round": 1,
+			"Answer": 2,
+			"Options": [
+				{
+					"OptionA": "Image file",
+					"OptionB": "Animation/movie file",
+					"OptionC": "Audio file",
+					"OptionD": "MS Office document"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 1000
+		},
+		{
+			"Question": "Who is known as the Iron man of India?",
+			"Round": 1,
+			"Answer": 4,
+			"Options": [
+				{
+					"OptionA": "Govind Ballabh Pant",
+					"OptionB": "Jawaharlal Nehru",
+					"OptionC": "Subhash Chandra Bose",
+					"OptionD": "Sardar Vallabhbhai Patel"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 1000
+		},
+		{
+			"Question": "Which of the following devices is used for measuring altitudes?",
+			"Round": 2,
+			"Answer": 1,
+			"Options": [
+				{
+					"OptionA": "Altimeter",
+					"OptionB": "Ammeter",
+					"OptionC": "Audiometer ",
+					"OptionD": "Galvanometer"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 2000
+		},
+		{
+			"Question": "Which city is known as the 'Electronic City of India'?",
+			"Round": 2,
+			"Answer": 4,
+			"Options": [
+				{
+					"OptionA": "Mumbai",
+					"OptionB": "Hyderabad",
+					"OptionC": "Guragon",
+					"OptionD": "Bangalore"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 2000
+		},
+		{
+			"Question": "Where is the Indian Institute of Science located?",
+			"Round": 2,
+			"Answer": 3,
+			"Options": [
+				{
+					"OptionA": "Cochin",
+					"OptionB": "Madras",
+					"OptionC": "Bangalore",
+					"OptionD": "New Delhi"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 2000
+		},
+		{
+			"Question": "Where is the Golden Temple situated?",
+			"Round": 2,
+			"Answer": 3,
+			"Options": [
+				{
+					"OptionA": "New Delhi",
+					"OptionB": "Agra",
+					"OptionC": "Amritsar",
+					"OptionD": "Mumbai"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 2000
+		},
+		{
+			"Question": "In which city is the 'Char Minar' located?",
+			"Round": 2,
+			"Answer": 2,
+			"Options": [
+				{
+					"OptionA": "Ahmedabad",
+					"OptionB": "Hyderabad",
+					"OptionC": "Delhi",
+					"OptionD": "Sikri"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 2000
+		},
+		{
+			"Question": "The world famous 'Khajuraho' sculptures are located in which of the following states?",
+			"Round": 2,
+			"Answer": 2,
+			"Options": [
+				{
+					"OptionA": "Gujarat",
+					"OptionB": "Madhya Pradesh",
+					"OptionC": "Orissa",
+					"OptionD": "Maharashtra"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 2000
+		},
+		{
+			"Question": "Who is the author of the book 'My Experiments with Truth'?",
+			"Round": 2,
+			"Answer": 1,
+			"Options": [
+				{
+					"OptionA": "Mahatma Gandhi",
+					"OptionB": "Michael Anderson",
+					"OptionC": "Winston Churchill",
+					"OptionD": "Jarnes Morris"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 2000
+		},
+		{
+			"Question": "Who is the writer of 'Swamy and Friends'?",
+			"Round": 2,
+			"Answer": 4,
+			"Options": [
+				{
+					"OptionA": "Munshi Premchand",
+					"OptionB": "Raman Patel",
+					"OptionC": "Max Muller",
+					"OptionD": "R. K. Narayan"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 2000
+		},
+		{
+			"Question": "Which of the following folk dance forms is associated with Gujarat?",
+			"Round": 2,
+			"Answer": 2,
+			"Options": [
+				{
+					"OptionA": "Nautanki",
+					"OptionB": "Garba",
+					"OptionC": "Kathakali",
+					"OptionD": "Bhangra"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 2000
+		},
+		{
+			"Question": "'Kathakali' is a folk dance prevalent in which state?",
+			"Round": 2,
+			"Answer": 3,
+			"Options": [
+				{
+					"OptionA": "Karnataka",
+					"OptionB": "Orissa",
+					"OptionC": "Kerala",
+					"OptionD": "Manipur"
+				}
+			],
+			"optionCategory": "verbal",
+			"priceMoney": 2000
+		}
+		
+	]
+}
